@@ -2,7 +2,6 @@
 
 An interactive Power BI report that analyzes customer churn across contract type, tenure, service adoption, payment method, and customer value. The report turns a public telecom dataset into retention-focused insights and recommended actions for at-risk customer segments.
 
-![Executive overview](assets/dashboard-overview.png)
 
 ## Business Objective
 
